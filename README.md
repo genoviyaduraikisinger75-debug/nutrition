@@ -63,9 +63,3 @@ NUTRITION ANALYTICS PROJECT
 
 7. Deployment
      Platform: Streamlit Cloud
-
-
-
-Database hosted on TiDB Cloud
-
-Fully cloud-accessible dashboard
