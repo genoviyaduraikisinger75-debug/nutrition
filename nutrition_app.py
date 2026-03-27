@@ -18,11 +18,11 @@ import streamlit as st
 #
 def get_connection():
     return mysql.connector.connect(
-        host="gateway01.ap-southeast-1.prod.aws.tidbcloud.com",
-        port=4000,
-        user="3gxYKPf9j9ttPYR.root",
-        password="WOua2m1REYeMO0BQ",
-        database="who_nutrition",
+        host="hostname",
+        port=portnumber,
+        user="username",
+        password="password",
+        database="database name",
         ssl_disabled=False
     )
 
